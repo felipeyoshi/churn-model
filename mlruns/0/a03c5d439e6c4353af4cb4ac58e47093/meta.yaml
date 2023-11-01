@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/churn-model/mlruns/0/a03c5d439e6c4353af4cb4ac58e47093/artifacts
+end_time: 1698710878353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a03c5d439e6c4353af4cb4ac58e47093
+run_name: gregarious-mule-770
+run_uuid: a03c5d439e6c4353af4cb4ac58e47093
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698710872734
+status: 3
+tags: []
+user_id: acer

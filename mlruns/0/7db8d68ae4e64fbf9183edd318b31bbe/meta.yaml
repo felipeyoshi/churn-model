@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/churn-model/mlruns/0/7db8d68ae4e64fbf9183edd318b31bbe/artifacts
+end_time: 1698862597227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7db8d68ae4e64fbf9183edd318b31bbe
+run_name: dashing-foal-217
+run_uuid: 7db8d68ae4e64fbf9183edd318b31bbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698862592307
+status: 3
+tags: []
+user_id: acer

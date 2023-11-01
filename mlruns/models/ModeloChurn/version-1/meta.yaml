@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1698710878311
+current_stage: None
+description: null
+last_updated_timestamp: 1698710878311
+name: ModeloChurn
+run_id: a03c5d439e6c4353af4cb4ac58e47093
+run_link: null
+source: file:///c:/churn-model/mlruns/0/a03c5d439e6c4353af4cb4ac58e47093/artifacts/modelo
+status: READY
+status_message: null
+storage_location: file:///c:/churn-model/mlruns/0/a03c5d439e6c4353af4cb4ac58e47093/artifacts/modelo
+user_id: null
+version: 1

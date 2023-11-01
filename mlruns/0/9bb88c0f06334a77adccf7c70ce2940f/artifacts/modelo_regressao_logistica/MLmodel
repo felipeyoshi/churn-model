@@ -1,0 +1,20 @@
+artifact_path: modelo_regressao_logistica
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.2
+mlflow_version: 2.8.0
+model_size_bytes: 109519
+model_uuid: e089273fc3cf4cce9fb74e8f6bbe930f
+run_id: 9bb88c0f06334a77adccf7c70ce2940f
+utc_time_created: '2023-10-31 00:06:12.426217'

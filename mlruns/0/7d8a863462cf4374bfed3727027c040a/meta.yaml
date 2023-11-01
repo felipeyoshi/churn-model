@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/churn-model/mlruns/0/7d8a863462cf4374bfed3727027c040a/artifacts
+end_time: 1698711005484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d8a863462cf4374bfed3727027c040a
+run_name: traveling-skunk-491
+run_uuid: 7d8a863462cf4374bfed3727027c040a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698711000370
+status: 3
+tags: []
+user_id: acer
